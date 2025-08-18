@@ -1,14 +1,14 @@
-# 💻 Software Engineering Student  
+#  Software Engineering
 
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 - **Languages:** JavaScript • Python • SQL  
 - **Frameworks & Libraries:** React • Node.js • Angular • Phaser  
 - **Databases:** PostgreSQL  
 - **Other Tools:** Git  
 
 
-## 📫 Connect with Me
+## Connect with Me
 - [💼 LinkedIn](https://www.linkedin.com/in/nicolezanin/)  
 - [📧 Email](mailto:nicolezaninsilva@gmail.com)  
 
