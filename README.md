@@ -10,7 +10,7 @@ Databases: PostgreSQL
 
 Blockchain Development: Solana • Web3 • PDAs • RPC Integration • Smart Contracts
 
-Data Science & Machine Learning: Predictive Modeling • Data Cleaning • Feature Engineering • Model Evaluation (Recall, F1, AUC)
+Data Science & Machine Learning: Predictive Modeling • Data Cleaning • Feature Engineering • Model Evaluation
 
 ## Connect with Me
 - [💼 LinkedIn](https://www.linkedin.com/in/nicolezanin/)  
